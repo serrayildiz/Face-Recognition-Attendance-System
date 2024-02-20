@@ -1,7 +1,3 @@
-Tabii, işte daha detaylı ve İngilizce olarak yazılmış bir GitHub README örneği:
-
----
-
 # Face Recognition Attendance System
 
 ![Face Recognition](images/face_recognition.png)
