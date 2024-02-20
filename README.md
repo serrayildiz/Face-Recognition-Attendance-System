@@ -1,0 +1,2 @@
+# Face Recognition Attendance System
+ This project is a face recognition-based attendance system developed using Python. It utilizes the OpenCV and face_recognition libraries for face detection and recognition, along with Tkinter for the graphical user interface (GUI). The system captures live video feed from a camera, detects faces in real-time, recognizes known faces, marks their attendance, and sends email notifications for unrecognized faces.
