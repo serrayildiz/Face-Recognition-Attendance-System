@@ -1,6 +1,5 @@
 # Face Recognition Attendance System
 
-![Face Recognition](images/face_recognition.png)
 
 ## Introduction
 
